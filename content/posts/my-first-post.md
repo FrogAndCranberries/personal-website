@@ -16,3 +16,4 @@ This text is <span style="color:red">red</span>.
 * C
 
 This was added at the end. Test 5.
+Try a HTML <a href="www.google.com">link</a>.
